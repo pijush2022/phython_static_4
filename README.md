@@ -1,0 +1,1 @@
+# phython_static_4
